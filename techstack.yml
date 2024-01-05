@@ -1,7 +1,8 @@
 repo_name: steveny2k/PixelChain-GoLang-Decoder
 report_id: 6c86ca22fceabb08e13d959f9a4ec578
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T09:49:09+00:00'
+timestamp: '2024-01-05T08:55:24+00:00'
 requested_by: ncirocco
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/9003/DOnqq1OM_400x400.jpg
+  detection_source_url: https://github.com/steveny2k/PixelChain-GoLang-Decoder/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: Nahuel Cirocco
   last_updated_on: 2020-11-07 20:17:43.000000000 Z
@@ -29,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/steveny2k/PixelChain-GoLang-Decoder
   detection_source: Repo Metadata
 - name: Protobuf
   description: Google's data interchange format
@@ -38,6 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/steveny2k/PixelChain-GoLang-Decoder/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: Nahuel Cirocco
   last_updated_on: 2020-11-07 20:17:43.000000000 Z
@@ -49,4 +53,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/steveny2k/PixelChain-GoLang-Decoder
   detection_source: Repo Metadata
