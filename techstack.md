@@ -3,9 +3,9 @@
 ## Tech Stack
 steveny2k/PixelChain-GoLang-Decoder is built on the following main stack:
 
+- [Go Ethereum](https://geth.ethereum.org/) – Languages
 - [Golang](http://golang.org/) – Languages
 - [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- [Go Ethereum](https://geth.ethereum.org/) – Languages
 
 Full tech stack [here](/techstack.md)
 
@@ -15,9 +15,9 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 steveny2k/PixelChain-GoLang-Decoder is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/service/9003/DOnqq1OM_400x400.jpg' alt='Go Ethereum'/> [Go Ethereum](https://geth.ethereum.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/9003/DOnqq1OM_400x400.jpg' alt='Go Ethereum'/> [Go Ethereum](https://geth.ethereum.org/) – Languages
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [steveny2k/PixelChain-GoLang-Decoder](https://github.com/steveny2k/PixelChain-GoLang-Decoder)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|01/05/24 <br/>Report generated|
+|4<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
